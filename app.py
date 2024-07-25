@@ -1,2 +1,2 @@
 # app.py
-print("Hola desde nueva_funcionalidad!")
+print("no entiendo como funciona esto!")
